@@ -53,6 +53,6 @@ replacing `<appname>` with the application that uses the Versions feature.
 
 ### Cleanup
 
-You can safely delete the entire Mac OSX Versions Cleaner repository after use.  Or, keep it around to use again down the road when document versions pile up again.
+You can safely delete the entire Mac OSX Versions Cleaner repository after use.  Or, keep it around to use down the road when document versions pile up again.
 
 
