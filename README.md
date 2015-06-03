@@ -37,3 +37,14 @@ The script will ask if you would like to reboot to complete the cleanup process.
 If you choose not to reboot your system at the completion of the cleanup, you will not be able to save document versions in applications that use them until you perform a manual reboot.
 
 
+### Discontinue Future Versioning in Applications
+
+Use the following command in your terminal application:
+
+```sh
+defaults write -app ‘<appname>’ ApplePersistence -bool no
+```
+
+replacing `<appname>` with the actual application name that uses the Versions feature.
+
+
