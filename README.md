@@ -34,7 +34,7 @@ sudo python version_cleaner.py
 
 The script will ask if you would like to reboot to complete the cleanup process.  Enter `y` or `n`.
 
-If you choose not to reboot your system at the completion of the cleanup, you will not be able to save document versions in applications that use them until you perform a manual reboot.
+If you choose not to reboot your system, you will not be able to save document versions in applications that use them until you perform a manual reboot.
 
 
 ### Discontinue Future Versioning in Applications
