@@ -2,6 +2,8 @@
 
 A script that scrubs the document version history from Mac OSX systems
 
+**Warning**: This script deletes all previous versions of all documents for all applications that use Mac OSX document versioning.  Please understand what you are doing and confirm that you do not need prior versions before you use this script.
+
 ## Instructions
 
 ### Get the Script
