@@ -8,7 +8,7 @@ A script that scrubs the document version history from Mac OSX systems
 
 The Mac OSX Versions functionality provides a document versioning tool that allows you to recover up to *hundreds* of prior document changes.  Not all users require this feature and [in certain cases](https://medium.com/thomasdegry/how-sketch-took-over-200gb-of-our-macbooks-cb7dd10c8163) it leads to the loss of a significant amount of storage space on your system (hundreds of GB).  This feature was introduced in Mac OSX Lion and Apple documentation is available [here](https://support.apple.com/en-us/HT202255).
 
-This script eliminates all stored document versions from your Mac OSX v 10.7+ system.
+This script eliminates all stored document versions from your Mac OSX v 10.7+ system (OSX Lion through current).
 
 ## Instructions
 
