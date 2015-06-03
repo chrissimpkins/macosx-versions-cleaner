@@ -45,6 +45,6 @@ Use the following command in your terminal application:
 defaults write -app ‘<appname>’ ApplePersistence -bool no
 ```
 
-replacing `<appname>` with the actual application name that uses the Versions feature.
+replacing `<appname>` with the application that uses the Versions feature.
 
 
