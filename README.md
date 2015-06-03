@@ -6,7 +6,7 @@ A script that scrubs the document version history from Mac OSX systems
 
 ### Get the Script
 
-You can manually download a [zip file](https://github.com/chrissimpkins/macosx-versions-cleaner/archive/master.zip) or [tar archive file](https://github.com/chrissimpkins/macosx-versions-cleaner/archive/master.tar.gz)
+You can manually download a [zip archive](https://github.com/chrissimpkins/macosx-versions-cleaner/archive/master.zip) or [tar archive](https://github.com/chrissimpkins/macosx-versions-cleaner/archive/master.tar.gz) of the repository
 
 or pull the repository to your machine with git:
 
