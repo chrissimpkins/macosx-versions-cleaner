@@ -4,6 +4,8 @@ A script that scrubs the document version history from Mac OSX systems
 
 **Warning**: This script deletes all previous versions of all documents for all applications that use Mac OSX document versioning.  Please understand what you are doing and confirm that you do not need prior versions before you use this script.  A Time Machine backup is highly recommended prior to use.
 
+It **does not** delete the current versions of these documents.
+
 ## Background
 
 The Mac OSX Versions functionality provides a document versioning tool that allows you to recover up to *hundreds* of prior document changes in Pages, Preview, Numbers, and many third party applications.  Not all users require this feature and [in certain cases](https://medium.com/thomasdegry/how-sketch-took-over-200gb-of-our-macbooks-cb7dd10c8163) it leads to the loss of a significant amount of storage space on your system (hundreds of GB).  This feature was introduced in Mac OSX Lion and Apple documentation is available [here](https://support.apple.com/en-us/HT202255).
