@@ -1,9 +1,20 @@
 #!/usr/bin/env python
 
+
+# ------------------------------------------
+#
+# Mac OSX Versions Cleaner
+# version_cleaner.py
+# Copyright 2015 Christopher Simpkins
+# MIT License
+#
+# ------------------------------------------
+
 import os
 import sys
 import subprocess
 import shutil
+
 
 def execute(command):
     try:
@@ -15,7 +26,7 @@ def execute(command):
     except subprocess.CalledProcessError as cpe:
         try:
             sys.stderr.write(cpe.output)
-        except TypeError as te:
+        except TypeError:
             sys.stderr.write(str(cpe.output))
 
 versions_dir = "/.DocumentRevisions-V100"
@@ -48,4 +59,3 @@ if os.path.isdir(versions_dir):
 else:
     print("Unable to locate a versions directory at the path '" + versions_dir + "'. It appears that it was already cleaned.")
     print("Complete the cleanup process by rebooting your system.")
-
