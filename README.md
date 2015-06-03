@@ -1,6 +1,6 @@
 # Mac OSX Versions Cleaner
 
-A script that scrubs the document version history from Mac OSX systems
+A script that scrubs the document version history from Mac OSX systems.
 
 **Warning**: This script deletes all previous versions of all documents for all applications that use Mac OSX document versioning.  Please understand what you are doing and confirm that you do not need prior versions before you use this script.  A Time Machine backup is highly recommended prior to use.
 
@@ -13,6 +13,10 @@ The Mac OSX Versions functionality provides an automatic document versioning too
 This script eliminates all stored document versions from your Mac OSX v 10.7+ system (OSX Lion through current).
 
 ## Instructions
+
+### Dependency
+
+Requires Python v2.x or v3.x
 
 ### Get the Script
 
