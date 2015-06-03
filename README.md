@@ -1,4 +1,4 @@
-# macosx-versions-cleaner
+# Mac OSX Versions Cleaner
 
 A script that scrubs the document version history from Mac OSX systems
 
