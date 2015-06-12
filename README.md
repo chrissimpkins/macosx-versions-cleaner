@@ -1,14 +1,14 @@
-# Mac OSX Versions Cleaner
+# OS X Versions Cleaner
 
-A script that scrubs the document version history from Mac OSX systems.
+A script that scrubs the document version history from OS X systems.
 
-**Warning**: This script deletes all previous versions of all documents for all applications that use Mac OSX document versioning.  Please understand what you are doing and confirm that you do not need prior versions before you use this script.  A Time Machine backup is highly recommended prior to use.
+**Warning**: This script deletes all previous versions of all documents for all applications that use OS X document versioning.  Please understand what you are doing and confirm that you do not need prior versions before you use this script.  A Time Machine backup is highly recommended prior to use.
 
 It **does not** delete the current versions of these documents.
 
 ## Background
 
-The Mac OSX Versions feature provides an automatic document versioning tool that allows you to recover up to *hundreds* of prior document changes in commonly used applications such as Pages, Preview, Numbers, as well as in many third party applications.  Not all users require this feature and [in certain cases](https://medium.com/thomasdegry/how-sketch-took-over-200gb-of-our-macbooks-cb7dd10c8163) it leads to the loss of a significant amount of storage space on your system (hundreds of GB).  This feature was introduced in Mac OSX Lion and Apple documentation is available [here](https://support.apple.com/en-us/HT202255).
+The OS X Versions feature provides an automatic document versioning tool that allows you to recover up to *hundreds* of prior document changes in commonly used applications such as Pages, Preview, Numbers, as well as in many third party applications.  Not all users require this feature and [in certain cases](https://medium.com/thomasdegry/how-sketch-took-over-200gb-of-our-macbooks-cb7dd10c8163) it leads to the loss of a significant amount of storage space on your system (hundreds of GB).  This feature was introduced in OS X Lion and Apple documentation is available [here](https://support.apple.com/en-us/HT202255).
 
 This script eliminates all stored document versions from your Mac OSX v 10.7+ system (OSX Lion through current).
 
@@ -53,6 +53,6 @@ replacing `<appname>` with the application that uses the Versions feature.
 
 ### Cleanup
 
-You can safely delete the entire Mac OSX Versions Cleaner repository after use.  Or, keep it around to use down the road when document versions pile up again.
+You can safely delete the entire OS X Versions Cleaner repository after use.  Or, keep it around to use down the road when document versions pile up again.
 
 
