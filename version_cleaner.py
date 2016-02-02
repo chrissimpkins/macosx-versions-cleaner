@@ -5,7 +5,7 @@
 #
 # Mac OSX Versions Cleaner
 # version_cleaner.py
-# Copyright 2015 Christopher Simpkins
+# Copyright 2016 Christopher Simpkins
 # MIT License
 #
 # ------------------------------------------
